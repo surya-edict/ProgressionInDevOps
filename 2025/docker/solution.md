@@ -95,6 +95,3 @@ In short, Docker simplifies running apps by packaging everything into containers
 ---
 
 
-In simple terms, containerization (with tools like Docker) is faster, lighter, and more efficient than virtualization. It’s perfect for modern software practices like microservices and CI/CD because it allows teams to build scalable systems that can be deployed quickly and consistently across different environments.
-
-
