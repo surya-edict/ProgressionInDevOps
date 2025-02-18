@@ -29,7 +29,7 @@ Docker is a tool that helps developers and operations teams work more efficientl
 
 
 
-### Docker Terminologies and Components
+# Docker Terminologies and Components
 
 
 
